@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliaska93
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning ?!
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me DM
 - 😄 Pronouns: Elias!!
